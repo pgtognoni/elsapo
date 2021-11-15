@@ -33,7 +33,7 @@ const datos = [
         'nombre' : 'Juan Manuel',
         'tiros' : 
         [
-           1, 24, 54, 12, 340
+           2, 24, 54, 12, 340
         ]
     },
 ];
