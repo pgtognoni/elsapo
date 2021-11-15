@@ -29,6 +29,13 @@ const datos = [
            1, 24, 54, 12, 34
         ]
     },
+    {
+        'nombre' : 'Juan Manuel',
+        'tiros' : 
+        [
+           1, 24, 54, 12, 340
+        ]
+    },
 ];
 
 
