@@ -11,7 +11,7 @@ const datos = [
     {'nombre' : 'Ayelen', 'tiros' : [100, 2, 34, 5, 67]},
     {'nombre' : 'Marcos', 'tiros' : [21, 2, 4, 51, 47]},
     {'nombre' : 'Ivo', 'tiros' : [1, 24, 54, 12, 34]},
-    {'nombre' : 'Juan Manuel', 'tiros' :[2, 24, 54, 12, 340]}
+    {'nombre' : 'Juan Manuel', 'tiros' :[2, 24, 54, 12, 340]},
 ];
 /*
 la suma de cada uno
